@@ -1,0 +1,98 @@
+Sequential time: 66546ms
+1
+Parallel time (native threads): 67246ms
+Parallel time (fastFlow): 74824ms
+2
+Parallel time (native threads): 35837ms
+Parallel time (fastFlow): 37444ms
+3
+Parallel time (native threads): 22914ms
+Parallel time (fastFlow): 25167ms
+4
+Parallel time (native threads): 18238ms
+Parallel time (fastFlow): 19572ms
+5
+Parallel time (native threads): 14368ms
+Parallel time (fastFlow): 14862ms
+6
+Parallel time (native threads): 12524ms
+Parallel time (fastFlow): 13506ms
+7
+Parallel time (native threads): 10718ms
+Parallel time (fastFlow): 11648ms
+8
+Parallel time (native threads): 9539ms
+Parallel time (fastFlow): 9793ms
+9
+Parallel time (native threads): 8243ms
+Parallel time (fastFlow): 11153ms
+10
+Parallel time (native threads): 7653ms
+Parallel time (fastFlow): 8740ms
+11
+Parallel time (native threads): 7202ms
+Parallel time (fastFlow): 7299ms
+12
+Parallel time (native threads): 7202ms
+Parallel time (fastFlow): 7088ms
+13
+Parallel time (native threads): 6256ms
+Parallel time (fastFlow): 7071ms
+14
+Parallel time (native threads): 5636ms
+Parallel time (fastFlow): 5878ms
+15
+Parallel time (native threads): 5410ms
+Parallel time (fastFlow): 7099ms
+16
+Parallel time (native threads): 5104ms
+Parallel time (fastFlow): 5842ms
+17
+Parallel time (native threads): 4862ms
+Parallel time (fastFlow): 5131ms
+18
+Parallel time (native threads): 4569ms
+Parallel time (fastFlow): 5438ms
+19
+Parallel time (native threads): 4411ms
+Parallel time (fastFlow): 4576ms
+20
+Parallel time (native threads): 4647ms
+Parallel time (fastFlow): 5175ms
+21
+Parallel time (native threads): 4099ms
+Parallel time (fastFlow): 4436ms
+22
+Parallel time (native threads): 3946ms
+Parallel time (fastFlow): 4803ms
+23
+Parallel time (native threads): 3828ms
+Parallel time (fastFlow): 6783ms
+24
+Parallel time (native threads): 4082ms
+Parallel time (fastFlow): 3946ms
+25
+Parallel time (native threads): 3805ms
+Parallel time (fastFlow): 4803ms
+26
+Parallel time (native threads): 3955ms
+Parallel time (fastFlow): 3747ms
+27
+Parallel time (native threads): 3527ms
+Parallel time (fastFlow): 4266ms
+28
+Parallel time (native threads): 3588ms
+Parallel time (fastFlow): 4294ms
+29
+Parallel time (native threads): 3542ms
+Parallel time (fastFlow): 4201ms
+30
+Parallel time (native threads): 3644ms
+Parallel time (fastFlow): 4836ms
+31
+Parallel time (native threads): 3403ms
+Parallel time (fastFlow): 4852ms
+32
+Parallel time (native threads): 3301ms
+Parallel time (fastFlow): 4152ms
+

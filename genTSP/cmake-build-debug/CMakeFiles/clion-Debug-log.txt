@@ -1,0 +1,13 @@
+"C:\Program Files\JetBrains\CLion 2023.1.3\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" -S C:\Users\alber\Desktop\SPM-projecy22-23\genTSP -B C:\Users\alber\Desktop\SPM-projecy22-23\genTSP\cmake-build-debug
+-- Configuring done
+CMake Error at CMakeLists.txt:4 (add_executable):
+  Cannot find source file:
+
+    src/overheadTest/fastFlowTSP_overhead.h
+
+
+CMake Error at CMakeLists.txt:4 (add_executable):
+  No SOURCES given to target: genTSP
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
